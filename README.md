@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-print string on standard output
+Hi humans!
+I'm DaveZhan's first program in github!
